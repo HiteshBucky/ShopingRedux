@@ -1,0 +1,23 @@
+[
+  	{	
+	  	"id": 1, 
+	  	"title": "Chicken Grill Sandwich", 
+	  	"price": 50.01,
+	  	"image" : "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/12a.jpg",
+	  	"inventory": 5
+	},
+	{
+	  	"id": 2, 
+	  	"title": "Veg Grill Sandwich", 
+	  	"price": 10.99, 
+	  	"image" : "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/13a.jpg",
+	  	"inventory": 10
+	},
+	{	
+		"id": 3, 
+	  	"title": "Pizza grilled Corner", 
+	  	"price": 19.99, 
+	  	"image" : "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/15a.jpg",
+		"inventory": 5
+	}
+]
